@@ -1,21 +1,25 @@
 using System;
 
-namespace task120723
+namespace average
 {
     class average
     {
         static void Main(string[] args)
         {
             Console.Write("Enter the score for subject 1: ");
-            Console.WriteLine("85");
+            int score1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter the score for subject 2: ");
-            Console.WriteLine("90");
+            int score2 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter the score for subject 3: ");
-            Console.WriteLine("77"); 
+            int score3 = Convert.ToInt32(Console.ReadLine());
             Console.Write("The average grade is:");
-            Console.WriteLine("84");
+            Console.WriteLine(CalculateAverage(score1,score2,score3));
 
             Console.ReadKey();
+        }
+        static int CalculateAverage(int score1,int score2, int score3)
+        {
+            return ((score1+score2+score3)/3);
         }
     }
 }
