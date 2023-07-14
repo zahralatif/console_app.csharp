@@ -17,7 +17,7 @@ namespace average
 
             Console.ReadKey();
         }
-        static int CalculateAverage(int score1,int score2, int score3)
+        static double CalculateAverage(int score1,int score2, int score3)
         {
             return ((score1+score2+score3)/3);
         }
