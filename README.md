@@ -6,8 +6,11 @@
 2. Holmes Creature
 ![Holmes Creature](holmescreature.png)
 
-3. Average Score
+3. Average Score 
 ![Average Score](average.png)
 
-4. Temperature
+4. Temperature (celsius to fahrenheit)
 ![Temperature](temperature.png)
+
+5. Conversion
+![Conversion](conversion.png)
