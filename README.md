@@ -16,4 +16,10 @@
 ![Conversion](conversion.png)
 
 6. Task Increment
-![Increment](increment.png)
+![Increment](taskincrement.png)
+
+7. Arithmetic Task
+![Arithmetic](arithmetictask.png)
+
+8. Arithmetic Operators
+![Arithmetic Operators](arithmeticoperators.png)
