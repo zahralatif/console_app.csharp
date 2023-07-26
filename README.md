@@ -23,3 +23,9 @@
 
 8. Arithmetic Operators
 ![Arithmetic Operators](arithmeticoperators.png)
+
+9. Condition if-else
+![condition if else](conditionifelse.png)
+
+10. Condition switch case
+![conditionswitch](conditionswitch.png)
