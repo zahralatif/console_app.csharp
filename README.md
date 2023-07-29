@@ -30,7 +30,23 @@
 10. Condition switch case
 ![conditionswitch](conditionswitch.png)
 
-11. Precedence Operators
+11. Precedence Operators (simple form)
 
 
-12. Ternary Operators
+12. Precedence Operators (advanced form)
+
+
+13. Date to Weekdays task
+
+
+14. Multiple of even numbers (Recursive)
+
+
+15. Ternary Operators
+![Ternary Operator](ternaryoperator.png)
+
+16. Factorial Loop
+
+
+17. Recursive Reverse Function
+
