@@ -29,3 +29,8 @@
 
 10. Condition switch case
 ![conditionswitch](conditionswitch.png)
+
+11. Precedence Operators
+
+
+12. Ternary Operators
