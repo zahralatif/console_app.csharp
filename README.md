@@ -31,7 +31,7 @@
 ![conditionswitch](conditionswitch.png)
 
 11. Precedence Operators (simple form)
-
+![Simple Calculator](precedenceoperators.png)
 
 12. Precedence Operators (advanced form)
 
@@ -40,7 +40,7 @@
 ![Date to Weekdays](datetoweekdays.png)
 
 14. Multiple of even numbers (Recursive)
-
+![Multiple of even numbers](multiplyeven.png)
 
 15. Ternary Operators
 ![Ternary Operator](ternaryoperator.png)
