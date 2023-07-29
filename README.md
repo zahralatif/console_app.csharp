@@ -37,7 +37,7 @@
 
 
 13. Date to Weekdays task
-
+![Date to Weekdays](datetoweekdays.png)
 
 14. Multiple of even numbers (Recursive)
 
