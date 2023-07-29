@@ -46,7 +46,7 @@
 ![Ternary Operator](ternaryoperator.png)
 
 16. Factorial Loop
-
+![Factorial loop](factorialloop.png)
 
 17. Recursive Reverse Function
 ![Reverse function](reversefunction.png)
