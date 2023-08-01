@@ -47,3 +47,6 @@
 
 16. Recursive Reverse Function
 ![Reverse function](reversefunction.png)
+
+17. Sum of odd numbers
+![Sum of odd numbers](sumofodds.png)
