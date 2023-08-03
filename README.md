@@ -50,3 +50,5 @@
 
 17. Sum of odd numbers
 ![Sum of odd numbers](sumofodds.png)
+
+18. Swapping Task
