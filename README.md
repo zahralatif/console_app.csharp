@@ -52,3 +52,6 @@
 ![Sum of odd numbers](sumofodds.png)
 
 18. Swapping Task
+![Swapping task](swaptask.png)
+
+19. StudentSystem (encapsulation) 
