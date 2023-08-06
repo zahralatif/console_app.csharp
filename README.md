@@ -55,7 +55,7 @@
 ![Swapping task](swaptask.png)
 
 19. StudentSystem (encapsulation) 
+![StudentSystem](studentsystem.png)
 
-
-20. sum of even numbers in array
+1.  sum of even numbers in array
     ![SumOfEvenNumsInArray](sumofevensinarr.png) 
