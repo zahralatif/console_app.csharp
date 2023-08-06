@@ -57,5 +57,5 @@
 19. StudentSystem (encapsulation) 
 ![StudentSystem](../console_app.csharp/assets/images/studentsystem.png)
 
-1.  sum of even numbers in array
-    ![SumOfEvenNumsInArray](../console_app.csharp/assets/images/sumofevensinarr.png) 
+20.SumOfEvenNumsInArray
+![SumOfEvenNumsInArray](../console_app.csharp/assets/images/sumofevensinarr.png) 
