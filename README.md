@@ -64,7 +64,7 @@
 
 
 22. Avg function (array)
-
+![AverageFunction](./assets/images/avgfunction.png)
 
 23. Find min and max in array
 ![FindMinMaxInArr](./assets/images/FindMinMaxInArr.png)
