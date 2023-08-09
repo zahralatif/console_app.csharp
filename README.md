@@ -61,7 +61,7 @@
 ![SumOfEvenNumsInArray](./assets/images/sumofevensinarr.png)
 
 21. 2*2 Array
-
+![multidimensionalarray](./assets/images/multidimensionalarray.png)
 
 22. Avg function (array)
 ![AverageFunction](./assets/images/avgfunction.png)
