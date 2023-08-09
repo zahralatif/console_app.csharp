@@ -66,8 +66,8 @@
 22. Avg function (array)
 
 
-23. Find max and min in array
+23. Find min and max in array
+![FindMinMaxInArr](./assets/images/FindMinMaxInArr.png)
 
-
-24. TicTacToe 
+24.  TicTacToe 
     ![TicTacToe](./assets/images/tictactoe.png)
