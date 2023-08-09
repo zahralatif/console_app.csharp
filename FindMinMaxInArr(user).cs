@@ -4,15 +4,22 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] numbers = { 5, 2, 9, 1, 7, 3 };
-        
+        Console.Write("Enter the number of elements in the array: ");
+        int n = int.Parse(Console.ReadLine());
+
+        int[] numbers = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write($"Enter element {i + 1}: ");
+            numbers[i] = int.Parse(Console.ReadLine());
+        }
+
         int minValue = FindMin(numbers);
         int maxValue = FindMax(numbers);
-        
+
         Console.WriteLine($"Minimum value: {minValue}");
         Console.WriteLine($"Maximum value: {maxValue}");
         Console.ReadKey();
-
     }
 
     static int FindMin(int[] array)
