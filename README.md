@@ -76,4 +76,4 @@
 ![TicTacToe](./assets/images/tictactoe.png)
 
 26. String methods
-![StringMethods](stringmethods.png)
+![StringMethods](./assets/images/stringmethods.png)
