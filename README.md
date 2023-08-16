@@ -77,3 +77,6 @@
 
 26. String methods
 ![StringMethods](./assets/images/stringmethods.png)
+
+27. Prime numbers
+![Primenums](./assets/images/primenums.png)
