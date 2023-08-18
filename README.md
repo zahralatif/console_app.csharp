@@ -80,3 +80,6 @@
 
 27. Prime numbers
 ![Primenums](./assets/images/primenums.png)
+
+28. Personal information
+![personinfo](./assets/images/personinfo.png)
