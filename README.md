@@ -83,3 +83,6 @@
 
 28. Personal information
 ![personinfo](./assets/images/personinfo.png)
+
+29. Areas and Perimeters of Shapes
+![Shapes](./assets/images/shapes.png)
