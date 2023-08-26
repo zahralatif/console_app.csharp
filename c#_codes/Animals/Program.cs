@@ -16,8 +16,8 @@ namespace polimorphism
                 a.MakeSound();
             }
             Console.WriteLine("----------------------------------------------------");
-            if(dolphin is ISwim s){
-                s.Swim();
+            if(dolphin is ISwim swimmer){
+                swimmer.Swim();
             }
 
             Console.ReadKey();

@@ -87,5 +87,5 @@
 29. Areas and Perimeters of Shapes
 ![Shapes](./assets/images/shapes.png)
 
-30. Animals (inheritance & interface)
+30. Animals (inheritance & interface + polimorphism)
 ![Animals](./assets/images/animals.png)
