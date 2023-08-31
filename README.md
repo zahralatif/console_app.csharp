@@ -89,3 +89,6 @@
 
 30. Animals (inheritance & interface + polimorphism)
 ![Animals](./assets/images/animals.png)
+
+31.  LibraryItems (polimorphism)
+![LibraryItems](./assets/images/libraryitems.png)
